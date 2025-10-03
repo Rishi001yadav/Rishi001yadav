@@ -13,7 +13,7 @@
 <a href="https://instagram.com/_rishiyadav_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rishiyadav_001" height="30" width="40" /></a>
 <a href="https://youtube.com/@studybattle2.024?si=-UDriqFB5DVOejLM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@studybattle2.024" height="30" width="40" /></a>
 
-<a href="https://pin.it/1xW3U55Wu" target="blank"><img align="center" src="https://www.softicons.com/social-media-icons/cute-social-icons-by-design-bolts/pinterest-icon" alt="@studybattle" height="30" width="40" /></a>
+<a href="https://pin.it/1xW3U55Wu" target="blank"><img align="center" src="content://media/external/downloads/1000138687" alt="@studybattle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
