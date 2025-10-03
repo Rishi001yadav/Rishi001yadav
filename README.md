@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj Yadav</h1>
-<h3 align="center">Hi there 👋, I'm Rishi Raj Yadav 🎓 I’m a **3rd-year B.Tech Computer Science student** 💻 Passionate about **Web Development** and shaping my career in the tech world --- ### 🚀 About Me - 🌱 I have completed **Frontend Development** (HTML, CSS, JavaScript) - 🔭 Currently exploring **advanced web technologies** to grow further - 🎯 Goal: To build my career as a **skilled Web Developer** and contribute to impactful projects</h3>
+<h3 align="center">Hi there 👋, I'm Rishi Raj Yadav 🎓 I’m a **3rd-year B.Tech Computer Science student** 💻 Passionate about Web Development and shaping my career in the tech world  🚀
+ About Me - 🌱 I have completed Frontend Development (HTML, CSS, JavaScript) - 🔭 Currently exploring advanced web technologies to grow further - 
+🎯 Goal: To build my career as a skilled Web Developer and contribute to impactful projects</h3>
 
 <p align="left"> <a href="https://twitter.com/irishiydv630" target="blank"><img src="https://img.shields.io/twitter/follow/irishiydv630?logo=twitter&style=for-the-badge" alt="irishiydv630" /></a> </p>
 
@@ -9,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/irishiydv630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irishiydv630" height="30" width="40" /></a>
 <a href="https://instagram.com/_rishiyadav_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rishiyadav_001" height="30" width="40" /></a>
+<br>
 <a href="https://www.youtube.com/c/@studybattle2.024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@studybattle2.024" height="30" width="40" /></a>
 </p>
 
