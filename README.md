@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/irishiydv630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irishiydv630" height="30" width="40" /></a>
-<a href="https://instagram.com/_rishiyadav_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishiyadav_.01" height="30" width="40" /></a>
+<a href="https://instagram.com/"rishiyadav_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishiyadav_.01" height="30" width="40" /></a>
 <a href="https://youtube.com/@studybattle2.024?si=-UDriqFB5DVOejLM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@studybattle2.024" height="30" width="40" /></a>
 
 <a href="https://pin.it/1xW3U55Wu" target="blank"><img align="center" src="(Pinterest)" alt="@studybattle" height="30" width="40" /></a>
