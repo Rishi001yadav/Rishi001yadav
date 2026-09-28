@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj Yadav</h1>
-<h3 align="center">Hi there 👋, I'm Rishi Raj Yadav 🎓 I’m a 3rd-year B.Tech Computer Science student 💻 Passionate about Web Development and shaping my career in the tech world  🚀
+<h3 align="center">Hi there 👋, I'm Rishi Raj Yadav 🎓A final year B.Tech Computer Science student 💻 Passionate about Full Stack Development and shaping my career in the tech world  🚀
  About Me - 🌱 I have completed Frontend Development (HTML, CSS, JavaScript) - 🔭 Currently exploring advanced web technologies to grow further - 
 🎯 Goal: To build my career as a skilled Web Developer and contribute to impactful projects</h3>
 
